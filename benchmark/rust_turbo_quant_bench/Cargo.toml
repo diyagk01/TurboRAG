@@ -1,0 +1,10 @@
+[package]
+name = "rust_turbo_quant_bench"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+ndarray = "0.16"
+ndarray-npy = "0.9"
+turbo-quant = "0.1"
